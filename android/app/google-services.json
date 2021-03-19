@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663242632820",
+    "firebase_url": "https://talgram-3966f-default-rtdb.firebaseio.com",
+    "project_id": "talgram-3966f",
+    "storage_bucket": "talgram-3966f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663242632820:android:863d1783429d77aa99ab21",
+        "android_client_info": {
+          "package_name": "com.example.tal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663242632820-0b0ofbnuup85c6kkenu674tmd5emuub6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tal",
+            "certificate_hash": "ac17406ca96306d606512e46a64e1b23bf59e850"
+          }
+        },
+        {
+          "client_id": "663242632820-43gkokb02k5bpk962lseknijcfrs7bol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLic6-ZlddsWWY2w2DRP1zPptgWWFHxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663242632820-43gkokb02k5bpk962lseknijcfrs7bol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
